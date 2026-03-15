@@ -2,7 +2,7 @@
 
 Welcome to the **Bachelor and Masters Class GitHub Organization**.
 
-This organization contains repositories for coursework, programming assignments, and academic projects completed during my **Bachelor’s and Master’s programs**. Each repository represents a course and contains the code, assignments, and projects developed throughout my studies.
+This organization contains repositories for coursework, programming assignments, and academic projects completed during my Bachelor’s and Master’s degree program in Computer Science. Each repository represents a course and contains the code, assignments, and projects developed throughout my studies.
 
 ---
 
