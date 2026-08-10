@@ -1,135 +1,87 @@
 # **Bachelor and Masters Class Repository**
 
-### Computer Science Coursework and Applied Projects — Western Governors University (WGU)
+### **Computer Science coursework and projects from Western Governors University (WGU)**
 
----
+This is where I keep the work from both of my Computer Science degrees at WGU: the Bachelor of Science and the Master of Science.
 
-**Overview**
+Each repo is one course. Inside you will find the code, data, and documents I built for that course. Every repo has its own README explaining what the project does and how it works.
 
-This organization is the consolidated academic portfolio for the **Bachelor of Science in Computer Science** and **Master of Science in Computer Science** programs completed at **Western Governors University (WGU)**.
+The work moves from programming basics and data structures, into backend and full stack development, and then into AI, machine learning, and security.
 
-Each repository corresponds to a single WGU course and contains the source code, datasets, documentation, and deliverables produced for that course's performance assessment. Together, these repositories trace a deliberate progression: from programming fundamentals and data structures, through backend and full-stack engineering, and into applied artificial intelligence, machine learning, and cybersecurity governance.
+## **The Repositories**
 
-Every project here was designed, implemented, tested, and documented end to end. The intent of this organization is not simply to archive completed assignments, but to present verifiable, working evidence of applied software engineering and data science capability.
-
----
-
-**How This Organization Is Organized**
-
-- Repositories are named using the course title followed by the official WGU course code (for example, `Data-Structures-and-Algorithms-II-C950`)
-- Each repository contains its own README describing the problem, the approach taken, the technologies used, and the skills demonstrated
-- Undergraduate coursework is identified by `C` and lower-numbered `D` course codes; graduate coursework is identified by the `D6`–`D8` series
-
----
-
-## Repository Directory
-
-### Artificial Intelligence and Machine Learning
+### **AI and Machine Learning**
 
 **Artificial-Intelligence-and-Machine-Learning-Foundations-D797**
-Foundational AI and machine learning work, including data preprocessing, K-Means clustering, and Random Forest regression applied to a real-world public health dataset.
+Clustering and prediction on a real Maryland COVID-19 dataset.
 
 **AI-Model-Optimization-D682**
-Model optimization techniques including hyperparameter tuning, regularization, ensemble methods, and decision-threshold optimization across classification and regression tasks.
+Six different ways to make a model perform better, tested head to head.
 
 **Task-1-AI-Model-Optimization-D684**
-Controlled optimization experiments comparing a baseline model against tuned, bagged, and stacked ensembles using reproducible evaluation reporting.
+Baseline model vs. tuned and ensemble versions, with the results measured.
 
 **Implementing-and-Testing-AI-Solutions-D682**
-End-to-end development and validation of a supervised learning pipeline, including preprocessing, tuning, evaluation, and artifact generation.
+A full machine learning pipeline built to be tested and repeated.
 
 **Implementing-and-Testing-AI-Solutions-D683**
-A production-style gradient boosting pipeline for air quality and health risk prediction, featuring time-aware validation and automated artifact output.
+Air quality and health risk prediction with automatic charts and reports.
 
 **Task-2-Product-Development-D684**
-Product development deliverables covering the design, planning, and lifecycle documentation of an AI-enabled solution.
+Planning documents for turning an AI model into an actual product.
 
----
-
-### Deep Learning and Natural Language Processing
+### **Deep Learning and Language**
 
 **Deep-Learning-D802**
-Neural network and computer vision work built on the CIFAR-10 image dataset, including data preparation, normalization, and reproducible train/validation/test splits.
+Image classification setup using the CIFAR-10 dataset.
 
 **Natural-Language-Processing-D803**
-Sentiment classification of Amazon product reviews using text cleaning, TF-IDF vectorization, and logistic regression, evaluated with precision, recall, and F1.
+Reading Amazon reviews and figuring out if they are positive or negative.
 
----
-
-### Algorithms and Data Structures
+### **Algorithms**
 
 **Applied-Algorithms-and-Reasoning-D795**
-Graph-based emergency dispatch optimization using Dijkstra's shortest path algorithm and priority-based scheduling, with runtime instrumentation.
+Picking the fastest ambulance for each emergency call using shortest path routing.
 
 **Data-Structures-and-Algorithms-II-C950**
-The WGUPS delivery routing program: a custom hash table implementation paired with a greedy nearest-neighbor routing algorithm under real-world delivery constraints.
+A package delivery router built on a hash table I wrote from scratch.
 
----
-
-### Software Engineering and Backend Development
+### **Software Development**
 
 **Advanced-Java-D387**
-A Spring Boot REST API for hotel room reservations with an Angular front end, demonstrating layered architecture, DTO conversion, and HATEOAS-style resource design.
+Hotel booking system: Spring Boot API with an Angular front end.
 
 **Back-End-Programming-D288**
-A Spring Boot e-commerce backend for a travel booking platform, including entity modeling, repository layers, and transactional checkout services.
+Vacation booking backend with a shopping cart and checkout.
 
 **Java-Frameworks-D287**
-A Spring Boot inventory management system with Thymeleaf views, custom business-rule validators, and JUnit test coverage.
+Inventory system for parts and products, with custom business rules.
 
----
-
-### Programming Fundamentals
+### **Programming Basics**
 
 **Scripting-and-Programming-Applications-C867**
-Object-oriented C++ application implementing a student roster with class inheritance, dynamic memory management, and data parsing.
+A C++ student roster with hands on memory management.
 
----
-
-### Governance, Risk, and Compliance
+### **Security and Compliance**
 
 **Governance-Risk-Compliance-D486**
-A CISO-perspective security assessment and remediation strategy for a healthcare organization, aligned to NIST SP 800-53 Rev. 5, FISMA, and PCI DSS.
+A security assessment and fix plan for a healthcare organization.
 
----
-
-### Version Control
+### **Version Control**
 
 **Version-Control-D197**
-Git and GitHub workflow fundamentals demonstrated through a multi-page web project, covering branching, merging, conflict resolution, and commit history management.
+Git workflow practice: branching, merging, and fixing conflicts.
 
----
+## **What I Used**
 
-## Technologies and Tools
+**Languages:** Python, Java, C++, SQL, HTML, CSS, JavaScript, TypeScript
 
-**Languages**
-Python, Java, C++, SQL, HTML/CSS, JavaScript, TypeScript
+**Tools and Frameworks:** Spring Boot, Angular, Thymeleaf, scikit learn, pandas, NumPy, JUnit, Maven, Git
 
-**Frameworks and Libraries**
-Spring Boot, Angular, Thymeleaf, scikit-learn, pandas, NumPy, Matplotlib, JUnit, Maven
+**Areas:** Machine learning, deep learning, natural language processing, algorithms, REST APIs, backend development, testing, security and compliance
 
-**Concepts and Practices**
-Machine learning and model optimization, deep learning, natural language processing, algorithm design and analysis, REST API development, object-oriented design, unit testing, security governance and compliance, Git version control
-
----
-
-## Purpose
-
-This organization serves as a **central academic and technical portfolio** documenting the full arc of a Computer Science education at Western Governors University.
-
-It provides working evidence of applied capability in:
-
-- Artificial intelligence and machine learning engineering
-- Deep learning and natural language processing
-- Algorithm design and computational problem solving
-- Backend and full-stack software engineering
-- Security governance, risk, and compliance
-- Professional version control and technical documentation
-
----
-
-## Author
+## **Author**
 
 **Michael L. Williams II**
-B.S. and M.S. in Computer Science — Western Governors University
+B.S. and M.S. in Computer Science, Western Governors University
 GitHub: [@ChromeData](https://github.com/ChromeData)
