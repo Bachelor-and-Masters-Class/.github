@@ -1,8 +1,8 @@
 # My WGU Computer Science Work
 
-Hi, I'm Michael. This is where I keep my coursework from my B.S. and M.S. in Computer Science at Western Governors University. Each repo is one course, with its own README.
+Coursework from my B.S. and M.S. in Computer Science at Western Governors University. One repo per course.
 
-### A few I'm proud of
+### Highlights
 
 - **[Package delivery router](https://github.com/Bachelor-and-Masters-Class/Data-Structures-and-Algorithms-II-C950):** delivers all 40 packages in 134.3 miles (the limit was 140), using a hash table I wrote from scratch.
 - **[Ambulance dispatch](https://github.com/Bachelor-and-Masters-Class/Applied-Algorithms-and-Reasoning-D795):** sends the fastest ambulance to each call, most urgent calls first.
