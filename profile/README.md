@@ -11,7 +11,7 @@ Coursework from my B.S. and M.S. in Computer Science at Western Governors Univer
 
 ### Everything else
 
-**AI and machine learning:** [COVID-19 clustering](https://github.com/Bachelor-and-Masters-Class/Artificial-Intelligence-and-Machine-Learning-Foundations-D797) · [Model optimization](https://github.com/Bachelor-and-Masters-Class/AI-Model-Optimization-D682) · [Baseline vs. tuned models](https://github.com/Bachelor-and-Masters-Class/Task-1-AI-Model-Optimization-D684) · [Testable ML pipeline](https://github.com/Bachelor-and-Masters-Class/Implementing-and-Testing-AI-Solutions-D682) · [AI product plan](https://github.com/Bachelor-and-Masters-Class/Task-2-Product-Development-D684)
+**AI and machine learning:** [COVID-19 clustering](https://github.com/Bachelor-and-Masters-Class/Artificial-Intelligence-and-Machine-Learning-Foundations-D797) · [Model optimization](https://github.com/Bachelor-and-Masters-Class/Task-1-AI-Model-Optimization-D684)
 
 **Deep learning and NLP:** [CIFAR-10 image prep](https://github.com/Bachelor-and-Masters-Class/Deep-Learning-D802) · [Amazon review sentiment](https://github.com/Bachelor-and-Masters-Class/Natural-Language-Processing-D803)
 
